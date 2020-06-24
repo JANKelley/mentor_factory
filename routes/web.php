@@ -22,3 +22,7 @@ Route::post('/signup/submit', 'SignUpController@submit');
 
 Route::get('/login', 'LoginController@get');
 Route::post('/login/auth', 'LoginController@auth');
+
+Route::get('/resource', function(){
+    return view('resource');
+})->middleware('auth.passcode');

@@ -29,6 +29,6 @@ class LoginController extends Controller
 
         Cookie::queue("mentor_login", $passcode[0]->passcode, 1440); // 60*24
 
-        return redirect('/');
+        return redirect('/resource');
     }
 }
