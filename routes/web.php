@@ -19,3 +19,6 @@ Route::get('/', function () {
 
 Route::get('/signup', 'SignUpController@get');
 Route::post('/signup/submit', 'SignUpController@submit');
+
+Route::get('/login', 'LoginController@get');
+Route::post('/login/auth', 'LoginController@auth');
