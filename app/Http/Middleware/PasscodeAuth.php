@@ -31,11 +31,21 @@ class PasscodeAuth
             return true;
         }
 
+        $uri = $request->path();
+
         if(isValidPasscode($c_passcode)){
+
+            if($uri == "login"){
+                return redirect('/resource');
+            }
+
             return $next($request);
         }
 
-
+        //Allow request to go through
+        if($uri == "login"){
+            return $next($request);
+        }
 
         return redirect("login");
         

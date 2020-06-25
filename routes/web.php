@@ -20,7 +20,7 @@ Route::get('/', function () {
 Route::get('/signup', 'SignUpController@get');
 Route::post('/signup/submit', 'SignUpController@submit');
 
-Route::get('/login', 'LoginController@get');
+Route::get('/login', 'LoginController@get')->middleware('auth.passcode');
 Route::post('/login/auth', 'LoginController@auth');
 
 Route::get('/resource', function(){

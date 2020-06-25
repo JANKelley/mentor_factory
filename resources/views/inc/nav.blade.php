@@ -10,8 +10,14 @@
                     <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item active">
+                    <a class="nav-link" href="/resource">Resource</a>
+                </li>
+                <li class="nav-item active">
                     <a class="nav-link" href="/signup">Sign Up</a>
                 </li>
+                <!-- <li class="nav-item active">
+                    <a class="nav-link" href="/login">Login</a>
+                </li> -->
             </ul>
         </div>
     </nav>
