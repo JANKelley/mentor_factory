@@ -21,7 +21,7 @@ class SignUpController extends Controller
         $validator = $request->validate([
             'name' => ['required'],
             'company' => ['required'],
-            'email' => ['required', 'email'],
+            'email' => ['required', 'email', 'unique:mentees,email'],
             'ifcontact' => ['required']
         ]);
 
