@@ -44,7 +44,7 @@ class SignUpController extends Controller
 
         $this->sendPasscodeMail($mentee, $passcode, $company);
 
-        return redirect()->back()->with('status', 'Submitted Successfully!');
+        return redirect("/")->with('status', 'Success🎉, you will receive ✉ with passcode shortly!');
     }
 
     protected function sendPasscodeMail($mentee, $passcode, $company){

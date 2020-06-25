@@ -1,7 +1,9 @@
 @extends('layouts.app')
 
+
 @section('content')
 <div class="container">
+    @include('inc.errors')
     <div class="jumbotron mt-5">
     <h1 class="display-4">Home</h1>
     <p class="lead">Welcome to mentorship at jankelley</p>
