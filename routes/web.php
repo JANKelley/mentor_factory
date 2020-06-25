@@ -26,3 +26,6 @@ Route::post('/login/auth', 'LoginController@auth');
 Route::get('/resource', function(){
     return view('resource');
 })->middleware('auth.passcode');
+
+Route::get('/forgot-password', 'ForgotPassword@get');
+Route::post('/forgot-password/submit', 'ForgotPassword@submit');

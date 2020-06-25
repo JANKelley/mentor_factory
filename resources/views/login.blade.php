@@ -16,8 +16,9 @@
                 }}
             </div>
         {!! Form::close() !!}
+            <p class="mt-5"><a href="/forgot-password">Forgot Password ?</a></p>
         </div>
     </div>
 </div>
-    
+
 @endsection
