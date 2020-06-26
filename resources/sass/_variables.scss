@@ -1,9 +1,9 @@
 // Body
-$body-bg: #f8fafc;
+$body-bg: #fff;
 
 // Typography
-$font-family-sans-serif: 'Nunito', sans-serif;
-$font-size-base: 0.9rem;
+$font-family-sans-serif: 'radikallight',Helvetica,Arial,sans-serif;
+$font-size-base: 1rem;
 $line-height-base: 1.6;
 
 // Colors
@@ -17,3 +17,19 @@ $yellow: #ffed4a;
 $green: #38c172;
 $teal: #4dc0b5;
 $cyan: #6cb2eb;
+
+$jk-btn-black:#3e3934;
+
+//Grid Options
+$grid-breakpoints: (
+    xs: 0,
+    sm: 480px,
+    md: 768px,
+    lg: 1024px
+);
+
+$container-max-widths: (
+    sm: 420px,
+    md: 720px,
+    lg: 1300px
+);

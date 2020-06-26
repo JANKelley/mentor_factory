@@ -8,11 +8,11 @@
             {!! Form::open(['url' => '/login/auth']) !!}
             <div class="form-group">
                 {{Form::label('passcode', 'Passcode' )}}
-                {{Form::text('passcode', '', ['class'=>'form-control text-center'])}}
+                {{Form::text('passcode', '', ['class'=>'form-control text-center', 'required'=>'true'])}}
             </div>
             <div class="div">
                 {{
-                    Form::submit('Authorize', ['class'=>'btn btn-primary'] )
+                    Form::submit('Authorize', ['class'=>'btn btn-black'] )
                 }}
             </div>
         {!! Form::close() !!}
