@@ -44,7 +44,7 @@ class SignUpController extends Controller
 
         $this->sendPasscodeMail($mentee, $passcode, $company);
 
-        return redirect("/")->with('status', 'Success🎉, you will receive ✉ with passcode shortly!');
+        return redirect("/")->with('status', 'Success 🎉, you will receive an email with your passcode shortly!');
     }
 
     protected function sendPasscodeMail($mentee, $passcode, $company){
@@ -54,7 +54,7 @@ class SignUpController extends Controller
             'passcode'=> $passcode->passcode,
             'company' => $company->name
             ], function($m) use ($mentee){
-            $m->from('mentorfactory@jankelley.com', 'Mentor Factory');
+            $m->from('developer@jankelley.com', 'Jan Kelley Mentor Factory');
             $m->to($mentee->email, $mentee->name)->subject('Passcode Generated');
         });
     }
