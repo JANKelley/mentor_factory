@@ -13,6 +13,7 @@ class LoginController extends Controller
     }
 
     public function auth(Request $request){
+
         $validate = $request->validate([
             'passcode' => ['required', 'min:8', 'max:8']
         ]);
@@ -24,9 +25,8 @@ class LoginController extends Controller
         if(count($passcode) < 1) {
             return redirect()->back()->with('status_error', 'Passcode not valid! 🤦‍♂️');
         }
-        
-        //Passcode Valid Set Session Cookie
 
+        //Passcode Valid Set Session Cookie
         Cookie::queue("mentor_login", $passcode[0]->passcode, 1440); // 60*24
 
         return redirect('/resource');

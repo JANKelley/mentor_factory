@@ -10026,3 +10026,32 @@ p {
   border-radius: 0;
 }
 
+.card-linkedin-link {
+  position: relative;
+  display: inline-block;
+}
+
+.card-linkedin-link::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  width: 120px;
+  height: 30px;
+  background-image: url(/images/linkedin-logo.png?c24cde2827448f08d40afd6909011e16);
+  background-size: cover;
+}
+
+.card-linkedin-link::before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 140px;
+  height: 40px;
+  background-color: white;
+  border-top-left-radius: 5px;
+}
+
