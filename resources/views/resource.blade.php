@@ -109,7 +109,7 @@
                         <li class="list-group-item">Value Proposition & Positioning</li>
                         <li class="list-group-item">Sales Acceleration</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="https://calendly.com/cbroten/jk-mentor-factory" class="btn btn-black arrow">Book a meeting</a>
                 </div>
             </div>
         </div>
@@ -127,7 +127,7 @@
                         <li class="list-group-item">Integration</li>
                         <li class="list-group-item">Automation</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="https://calendly.com/kbanse/virtual-coffee" class="btn btn-black arrow">Book a meeting</a>
                 </div>
             </div>
         </div>
