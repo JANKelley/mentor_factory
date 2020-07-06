@@ -35,7 +35,7 @@
                         <li class="list-group-item">Community Management</li>
                         <li class="list-group-item">Reporting & Analytics</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
@@ -53,7 +53,7 @@
                         <li class="list-group-item">Content strategy</li>
                         <li class="list-group-item">Messaging</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
@@ -71,7 +71,7 @@
                         <li class="list-group-item">Adwords & Optimization</li>
                         <li class="list-group-item">&nbsp;</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
@@ -91,7 +91,7 @@
                         <li class="list-group-item">Digital Strategy</li>
                         <li class="list-group-item">Demand Generation</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
@@ -109,7 +109,7 @@
                         <li class="list-group-item">Value Proposition & Positioning</li>
                         <li class="list-group-item">Sales Acceleration</li>
                     </ul>
-                    <a href="https://calendly.com/cbroten/jk-mentor-factory" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="https://calendly.com/cbroten/jk-mentor-factory" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
@@ -127,7 +127,7 @@
                         <li class="list-group-item">Integration</li>
                         <li class="list-group-item">Automation</li>
                     </ul>
-                    <a href="https://calendly.com/kbanse/virtual-coffee" class="btn btn-black arrow">Book a meeting</a>
+                    <a href="https://calendly.com/kbanse/virtual-coffee" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
