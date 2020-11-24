@@ -24,8 +24,8 @@
         <div class="col-md-6 col-lg-4 mb-4">
             <div class="card" >
                 <a class="card-linkedin-link" href="https://www.linkedin.com/in/brontejones/" target="_blank">
-                    <img class="card-img-top" 
-                    src="./images/Bronte.jpg" 
+                    <img class="card-img-top"
+                    src="./images/Bronte.jpg"
                     alt="Bronte Jones">
                 </a>
                 <div class="card-body">
@@ -35,17 +35,17 @@
                         <li class="list-group-item">Community Management</li>
                         <li class="list-group-item">Reporting & Analytics</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
+                    <a href="https://calendly.com/brontejones/virtual-coffee " class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-4">
             <div class="card" >
                 <a class="card-linkedin-link" href="https://www.linkedin.com/in/kamilakarwowski/" target="_blank">
-                        <img class="card-img-top" 
-                        src="images/Kamila.jpg" 
+                        <img class="card-img-top"
+                        src="images/Kamila.jpg"
                         alt="Kamila Karwowski">
-                    </a>    
+                    </a>
                 <div class="card-body">
                     <h5 class="card-title">Kamila Karwowski</h5>
                     <ul class="list-group list-group-flush">
@@ -53,17 +53,17 @@
                         <li class="list-group-item">Content strategy</li>
                         <li class="list-group-item">Messaging</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
+                    <a href="https://calendly.com/kkarwowski/virtualcoffee" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-4">
             <div class="card" >
                 <a class="card-linkedin-link" href="https://www.linkedin.com/in/danjohn/" target="_blank">
-                    <img class="card-img-top" 
-                    src="images/Dan.jpg" 
+                    <img class="card-img-top"
+                    src="images/Dan.jpg"
                     alt="Dan John">
-                </a>  
+                </a>
                 <div class="card-body">
                     <h5 class="card-title">Dan John</h5>
                     <ul class="list-group list-group-flush">
@@ -80,8 +80,8 @@
         <div class="col-md-6 col-lg-4 mb-4">
             <div class="card" >
                 <a class="card-linkedin-link" href="https://www.linkedin.com/in/evan-tamblyn/" target="_blank">
-                    <img class="card-img-top" 
-                    src="images/Evan.jpg" 
+                    <img class="card-img-top"
+                    src="images/Evan.jpg"
                     alt="Evan Tamblyn">
                 </a>
                 <div class="card-body">
@@ -91,15 +91,15 @@
                         <li class="list-group-item">Digital Strategy</li>
                         <li class="list-group-item">Demand Generation</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
+                    <a href="https://calendly.com/evantamblyn/jk-virtual-consultation" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-4">
             <div class="card" >
                 <a class="card-linkedin-link" href="https://www.linkedin.com/in/chantel-broten-084a153/" target="_blank">
-                    <img class="card-img-top" 
-                    src="images/Chantel.jpg" 
+                    <img class="card-img-top"
+                    src="images/Chantel.jpg"
                     alt="Chantel Broten">
                 </a>
                 <div class="card-body">
@@ -116,8 +116,8 @@
         <div class="col-md-6 col-lg-4 mb-4">
             <div class="card" >
             <a class="card-linkedin-link" href="https://www.linkedin.com/in/kbanse/" target="_blank">
-                    <img class="card-img-top" 
-                    src="images/Klaus.jpg" 
+                    <img class="card-img-top"
+                    src="images/Klaus.jpg"
                     alt="Klaus Banse">
                 </a>
                 <div class="card-body">
