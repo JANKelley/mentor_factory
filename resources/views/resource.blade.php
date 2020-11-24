@@ -71,7 +71,7 @@
                         <li class="list-group-item">Adwords & Optimization</li>
                         <li class="list-group-item">&nbsp;</li>
                     </ul>
-                    <a href="#" class="btn btn-black arrow" target="_blank">Book a meeting</a>
+                    <a href="https://calendly.com/danjohn/virtual-connect" class="btn btn-black arrow" target="_blank">Book a meeting</a>
                 </div>
             </div>
         </div>
